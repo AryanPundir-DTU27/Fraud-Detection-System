@@ -71,8 +71,6 @@ fraud-detection-project/
 * Highlight red flags visually
 * Enable drill-downs (e.g., by user, device, time)
 
-📸 *Screenshots available in `/visualization/tableau_screenshots/`*
-
 > You can open `dashboard.twb` using Tableau Desktop or Public.
 
 ---
@@ -97,8 +95,6 @@ fraud-detection-project/
   * Classification report (precision, recall, F1-score)
   * Fraud detection recall: Key for minimizing false negatives
 * Discussed potential improvements (Random Forests, SMOTE, etc.)
-
-> 📓 Notebook: `ml_notebook/Fraud_Detection_Personalized_Modeling.ipynb`
 
 ---
 
